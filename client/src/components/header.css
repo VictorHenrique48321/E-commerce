@@ -1,0 +1,12 @@
+:root {
+  --primaryColor: #89bd23
+}
+
+.currentLink {
+  color: #89bd23;
+  border-bottom: 1px solid #89bd23;
+}
+
+.deactivatedLink {
+  color: black
+}
